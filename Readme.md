@@ -69,7 +69,7 @@ Podremos comprobar el estado del servidor en el icono del mundo dentro del menú
 ATENCION: Para que funcione el servidor los archivos SpaceY_0.9.jar, Run_Server.bat, la base de datos BD_SpaceY.accdb deben estar en la misma carpeta. 
 Puede que por tu versión de java el servidor no pueda funcionar. Adjuntamos un archivo que actualiza la versión actual en tu máquina. (jdk-15.0.1_windows-x64_bin.exe)
 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/tutorial_github-10.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/tutorial_github-10.png?raw=true)
 
 
 GDD
@@ -183,9 +183,9 @@ Ventana de título y pequeña introducción con el lanzamiento de un cohete atra
 Primero seleccionarás el avatar y el puesto que ocupas. Tu experiencia será diferente según tu
 posición.  
 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/navegacion.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/navegacion.png?raw=true)
 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/xp_jugador.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/xp_jugador.png?raw=true)
 
 
 **Supervisor:**
@@ -324,7 +324,7 @@ puntos de victoria.
 
 **Diagrama de fuentes, recursos y conversores**    
 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/recursos.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/recursos.png?raw=true)
 
 
 **Diseño de nivel**
@@ -345,7 +345,7 @@ puntos de victoria.
 
 **Navegación**
 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/DIAGRAMA_DE_FLUJO.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/DIAGRAMA_DE_FLUJO.png?raw=true)
 
 
 ### FASE 2: MODO LOCAL
@@ -389,14 +389,14 @@ Controles supervisor:
 
 MEJORAS EN CONECTIVIDAD:
 -Hemos añadido una base de datos para registrar los usuarios, sus contraseñas, sus mensajes y su imagen de perfil.  
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/registro.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/registro.png?raw=true)
 -Hemos añadido un CHAT implementado en el icono del MENSAJE en el menú principal. 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/chat.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/chat.PNG?raw=true)
 -Hemos añadido una consola para el estado del SERVIDOR implementado en el icono del MUNDO en el menú principal. 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/global.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/global.PNG?raw=true)
 -Hemos añadido una caja para iniciar sesión y registrarse en la base de datos del juego que identifica los usuarios conectados. Además permitimos personalización.
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/login.PNG?raw=true)
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/usericon.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/login.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/usericon.PNG?raw=true)
 
 
 
@@ -501,4 +501,4 @@ Se ha implementado una escena de contactos con una pequeña caricatura de los de
 **● Diagrama de clases:**
 **Diagrama api rest de la aplicación.**
 
-![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/diagrama_clases.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/diagrama_clases.png?raw=true)
