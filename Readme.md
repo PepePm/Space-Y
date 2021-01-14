@@ -1,6 +1,6 @@
 SPACE Y
 =======
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/main.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/main.png?raw=true)
 
 Nombre del juego
 ----------------
@@ -43,7 +43,7 @@ https://trello.com/b/OI6kYl75/juegos-en-red
 Github
 ------
 
-https://github.com/Jacquesmeyns/SpaceY
+https://github.com/PepePm/Space-Y
 
 FAQ
 ------
@@ -69,7 +69,7 @@ Podremos comprobar el estado del servidor en el icono del mundo dentro del menú
 ATENCION: Para que funcione el servidor los archivos SpaceY_0.9.jar, Run_Server.bat, la base de datos BD_SpaceY.accdb deben estar en la misma carpeta. 
 Puede que por tu versión de java el servidor no pueda funcionar. Adjuntamos un archivo que actualiza la versión actual en tu máquina. (jdk-15.0.1_windows-x64_bin.exe)
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/tutorial_github-10.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/tutorial_github-10.png?raw=true)
 
 
 GDD
@@ -143,10 +143,10 @@ De todas formas confiamos en que se trabaje codo con codo construyendo,
 literalmente, nuestro futuro en una moderna base marciana.    
 
 **Stelonauta:** ​Es callado, aventurero y obediente. Le gusta la soledad y la mayonesa.    
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/stelonauta_concept.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/stelonauta_concept.png?raw=true)
 
 **Supervisor:** ​Le gusta controlar las cosas y pulsar botones. Ha llegado muy alto siguiendo estos principios.    
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/supervisor_concept.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/supervisor_concept.png?raw=true)
 
 
 # Gameplay
@@ -183,9 +183,9 @@ Ventana de título y pequeña introducción con el lanzamiento de un cohete atra
 Primero seleccionarás el avatar y el puesto que ocupas. Tu experiencia será diferente según tu
 posición.  
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/navegacion.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/navegacion.png?raw=true)
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/xp_jugador.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/xp_jugador.png?raw=true)
 
 
 **Supervisor:**
@@ -211,7 +211,7 @@ _-Conquistando Marte (Disney, 2006)
 
 **Objetivos del juego y recompensas**  
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/tablaRecom.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/tablaRecom.png?raw=true)
 
 
 **Mecánicas**  
@@ -219,7 +219,7 @@ _-Conquistando Marte (Disney, 2006)
 
 El jugador de tierra tiene acceso desde un terminal a varias aplicaciones desde las que podrá
 realizar una serie de acciones.    
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/supervisor_interfaz.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/supervisor_interfaz.png?raw=true)
 (posible interfaz del jugador de Tierra)    
 
 **Aplicaciones:**    
@@ -308,28 +308,28 @@ puntos de victoria.
 
 **Atributos de los personajes**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/tablaAtribPers.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/tablaAtribPers.png?raw=true)
 
 
 
 **Game Modes**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/tablaFasesT.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/tablaFasesT.png?raw=true)
 
 
 **Sistema de puntuación**
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/tablaPuntuacion.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/tablaPuntuacion.png?raw=true)
 
 
 **Diagrama de fuentes, recursos y conversores**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/recursos.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/recursos.png?raw=true)
 
 
 **Diseño de nivel**
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/tablaDiseñoNivel.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/tablaDiseñoNivel.png?raw=true)
 
 
 # Controles y Navegación
@@ -337,15 +337,15 @@ puntos de victoria.
 
 **Supervisor**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/controlesSup.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/controlesSup.png?raw=true)
 
 **Stelonauta**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/controlesStelo.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/controlesStelo.png?raw=true)
 
 **Navegación**
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/DIAGRAMA_DE_FLUJO.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/DIAGRAMA_DE_FLUJO.png?raw=true)
 
 
 ### FASE 2: MODO LOCAL
@@ -389,20 +389,20 @@ Controles supervisor:
 
 MEJORAS EN CONECTIVIDAD:
 -Hemos añadido una base de datos para registrar los usuarios, sus contraseñas, sus mensajes y su imagen de perfil.  
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/registro.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/registro.png?raw=true)
 -Hemos añadido un CHAT implementado en el icono del MENSAJE en el menú principal. 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/chat.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/chat.PNG?raw=true)
 -Hemos añadido una consola para el estado del SERVIDOR implementado en el icono del MUNDO en el menú principal. 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/global.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/global.PNG?raw=true)
 -Hemos añadido una caja para iniciar sesión y registrarse en la base de datos del juego que identifica los usuarios conectados. Además permitimos personalización.
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/login.PNG?raw=true)
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/usericon.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/login.PNG?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/usericon.PNG?raw=true)
 
 
 
 # Pantalla compartida en Local
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/pantallaCompartida.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/pantallaCompartida.png?raw=true)
 
 # Estética de juego y experiencia de usuario
 
@@ -418,7 +418,7 @@ MEJORAS EN CONECTIVIDAD:
 5. Una barra de progreso como en “Among Us” para sintetizar el progreso de
     terraformación y poder ver mejor las tareas realizadas.
     
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/interfaz1.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/interfaz1.png?raw=true)
 
 
 ### Diseño de interfaz:
@@ -429,13 +429,13 @@ MEJORAS EN CONECTIVIDAD:
 ● Barra Terraformación (Verde): nivel de progreso    
 ● Barra de Energía solar : aparece al estar cubiertas de polvo los paneles solares.    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/pantallaMarte.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/pantallaMarte.png?raw=true)
 Diseño preliminar de la interfaz de stelonauta    
 
 
 **Referencias: (Among us, Green the Planet, The escapist, Surviving mars)**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/visual1.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/visual1.png?raw=true)
 
 **Pantalla Tierra (Preliminar):**    
 
@@ -444,11 +444,11 @@ Diseño preliminar de la interfaz de stelonauta
 ● Pantalla de visualización de Marte.    
 ● Botón de Emergencia.    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/supervisor_interfaz.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/supervisor_interfaz.png?raw=true)
 
 **Referencias (paneles de control y juego space team):**    
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/visual2.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/visual2.png?raw=true)
 
 # Música
 
@@ -464,41 +464,41 @@ Todos los efectos de sonido y canciones han sido obtenidos a través de https://
 # Capturas de pantalla
 **● Menú logos:**
 **Pantalla de logos y título. Sirve para precargar todo el contenido antes de ejecutar el juego en si. Nos permite agilizar procesos mientras introducimos al jugador.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneLogos.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneLogos.png?raw=true)
 
 **● Menú inicial:**
 **JUGAR: nos lleva al bucle principal del juego.**
 **TUTORIAL: Nos lleva a la escena tutorial. El jugador será guiado pulsando el botón 'Y'.**
 **OPCIONES: Podremos controlar el Volumen de la MÚSICA y SFX.**
 **CONTACTO: Muestra los nombres de los creadores del proyecto y dirige a su página de Itch.io.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneMenu.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneMenu.png?raw=true)
 
 **● Menú opciones:**
 **Mediante dos sliders podremos controlar el volumen de los SFX y la MÚSICA.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneOptions.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneOptions.png?raw=true)
 
 **● Menú contacto:**
 Se ha implementado una escena de contactos con una pequeña caricatura de los desarrolladores y su enlace correspondiente a su página en Itch.io, donde se podrán ver sus otros **trabajos.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneContacts.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneContacts.png?raw=true)
 
 **● Escena del juego:**
 **Interfaz de juego inicial, con sus diferentes zonas y máquinas.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneGame.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneGame.png?raw=true)
 
 **● Escena del tutorial:**
 **Vista de Tutorial, para avanzar será necesario pulsar la Y, no se puede salir de él si no se completa. Nos enseñará las mecánicas básicas y cómo jugar.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneTutorial.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneTutorial.png?raw=true)
 
 **● Menú de pausa:**
 **Se ha implementado un menu de PAUSA pulsando la tecla ESC, que nos permite detener el juego. Podremos regresar al menu de inicio o cambiar nuestros ajustes en pantalla.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_scenePause.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_scenePause.png?raw=true)
 
 **● Escena de victoria/derrota:**
 **Hemos implementado las condiciones de VICTORIA y DERROTA: Para ganar hace falta rellenar la barra de terraformacion al 100% y no morir de hambre o por golpe de un meteorito.**
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneWin.png?raw=true)
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/master/Resources/Img/img_sceneDefeat.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneWin.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/master/Resources/Img/img_sceneDefeat.png?raw=true)
 
 **● Diagrama de clases:**
 **Diagrama api rest de la aplicación.**
 
-![alt text](https://github.com/Jacquesmeyns/SpaceY/blob/Pruebas-spring/Resources/Img/diagrama_clases.png?raw=true)
+![alt text](https://github.com/PepePm/Space-Y/blob/Pruebas-spring/Resources/Img/diagrama_clases.png?raw=true)
