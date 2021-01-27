@@ -34,7 +34,7 @@ class Meteor {
 
     Explode() {
 
-        //Play animation
+        //Play animation wtf
         this.checkCollision();
         //this.obj.setVisible(false);
         this.obj.destroy();
