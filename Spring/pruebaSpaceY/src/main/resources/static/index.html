@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Y</title>
+    <!-- FONT LOADER   : fuente: https://stackoverflow.com/questions/51217147/how-to-use-a-local-font-in-phaser-3-->
+    <style media='screen' type='text/css'>
+        @font-face {
+          font-family: textFont;
+          src: url('Resources/Fuentes/Spaceport_2006.otf');
+          font-weight:400;
+          font-weight:normal;
+        }
+        @font-face {
+          font-family: menuFont;
+          src: url('Resources/Fuentes/Digitalt.ttf');
+          font-weight:400;
+          font-weight:normal;
+        }
+    </style>
+    <!--https://www.dafont.com/es/digitalt.font?text=JUGAR+OPCIONES+Creditos&l[]=10&back=theme-->
+    <!--https://www.dafont.com/es/spaceport-2006.font?text=Jugar+Opciones+Creditos-->
+    <!-- fin font loader-->
+    <style>
+        body {
+
+            background-color:black;
+        }
+        
+    </style>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.9.0/sha256.min.js"></script>
+
+    <!--<script src="apiRest.js"></script>-->
+
+    <link rel="shortcut icon" type="image/png" href="./Resources/Game/favicon.png"/>
+</head>
+<body onunload="funcion()">
+
+    <script>
+        function funcion() {
+            alert("Tsasasasa!");
+        }
+    </script>
+    
+    <!-- FONT LOADER-->
+    <div style="font-family:menuFont; position:absolute; left:-1000px; visibility:hidden;">.</div>
+    <div style="font-family:textFont; position:absolute; left:-1000px; visibility:hidden;">.</div>
+    <!-- -->
+    
+    <div id="container"></div>
+    
+    
+
+    <script src="./node_modules/phaser/dist/phaser.js"></script>
+    <script src="./src/SceneGameEnd.js"></script>
+    <script src="./src/ScenePause.js"></script>
+    <script src="./src/SceneGame.js"></script>
+    <script src="./src/SceneContact.js"></script>
+    <script src="./src/SceneOptions.js"></script>
+    <script src="./src/SceneREST.js"></script>
+    <script src="./src/SceneMenu.js"></script>
+    <script src="./src/SceneLogos.js"></script>
+    <script src="./src/SceneTutorial.js"></script>
+    <script src="./src/SceneBoot.js"></script>
+    <script src="./src/init.js"></script><!-- type="module"-->
+    <script type="text/javascript" src="./src/Machine.js"></script>
+    <script type="text/javascript" src="./src/TerraformMachine.js"></script>
+    <script type="text/javascript" src="./src/StationMachine.js"></script>
+    <script type="text/javascript" src="./src/MineMachine.js"></script>
+    <script type="text/javascript" src="./src/CommsMachine.js"></script>
+    <script type="text/javascript" src="./src/ResourceIndicator.js"></script>
+    <script type="text/javascript" src="./src/KeyIndicator.js"></script>
+    <script type="text/javascript" src="./src/Bar.js"></script>
+    <script type="text/javascript" src="./src/Rocket.js"></script>
+    <script type="text/javascript" src="./src/EarthControl.js"></script>
+    <script type="text/javascript" src="./src/Payload.js"></script>
+    <script type="text/javascript" src="./src/Counter.js"></script>
+    <script type="text/javascript" src="./src/Cloud.js"></script>
+    <script type="text/javascript" src="./src/Meteor.js"></script>
+</body>
+</html>
