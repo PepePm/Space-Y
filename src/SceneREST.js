@@ -363,7 +363,7 @@ function setUsers(scene, n) {
     scene.numPlayersTxt.setText("REGISTERED USERS: " + n);
 }
 
-
+/*
 $(document).ready(function() {
 
     var connection = new WebSocket('ws://127.0.0.1:8080/chat');
@@ -392,4 +392,4 @@ $(document).ready(function() {
 		connection.send(JSON.stringify(msg));
 	});
 
-})
+})*/

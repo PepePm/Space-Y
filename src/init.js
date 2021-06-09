@@ -10,7 +10,7 @@ var config = {
         update: update     
     },//*/
 
-    scene:[SceneLogos, SceneBoot,SceneMenu, SceneREST,SceneTutorial, SceneGame, ScenePause,SceneContact, SceneOptions, SceneGameEnd],
+    scene:[SceneLogos, SceneBoot,SceneMenu, SceneREST,SceneTutorial, SceneGame, SceneGameWS, ScenePause,SceneContact, SceneOptions, SceneGameEnd],
 
     physics: {
         default: "arcade",
